@@ -43,34 +43,8 @@
 | Custom Animations | Enhanced UX |
 
 ## 📂 Project Structure
-quiz-builder/
-├── backend/
-│ ├── src/
-│ │ └── app.ts # Express server with all endpoints
-│ ├── prisma/
-│ │ ├── schema.prisma # Database schema
-│ │ └── dev.db # SQLite database (gitignored)
-│ ├── package.json
-│ ├── tsconfig.json
-│ └── .env # Environment variables (gitignored)
-│
-├── frontend/
-│ ├── src/
-│ │ ├── app/
-│ │ │ ├── page.tsx # Landing page
-│ │ │ ├── create/page.tsx # Quiz creation form
-│ │ │ ├── quizzes/page.tsx # Quiz list
-│ │ │ ├── quizzes/[id]/page.tsx # Quiz details
-│ │ │ ├── layout.tsx # Root layout
-│ │ │ ├── globals.css # Global styles
-│ │ │ ├── ThemeProvider.tsx # Dark mode logic
-│ │ │ └── ThemeToggle.tsx # Dark mode button
-│ │ └── types/quiz.ts # TypeScript interfaces
-│ ├── package.json
-│ ├── tailwind.config.ts
-│ └── next.config.js
-│
-└── README.md
+<img width="765" height="1109" alt="image" src="https://github.com/user-attachments/assets/5e6c2d56-802e-4da1-9dbe-86529c6979a3" />
+
 
 
 ## 🚀 Quick Start
